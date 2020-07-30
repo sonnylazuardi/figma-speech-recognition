@@ -1,0 +1,7 @@
+{
+  "name": "Hey Figma Speech Recognition",
+  "id": "866715466816416331",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
